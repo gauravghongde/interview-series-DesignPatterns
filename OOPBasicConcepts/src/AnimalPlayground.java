@@ -17,7 +17,6 @@ public class AnimalPlayground {
         //////////
 
 
-
     }
 
     public static void changeName(Dog timothy, String newName) {
