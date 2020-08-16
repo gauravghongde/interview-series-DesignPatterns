@@ -1,4 +1,4 @@
-#Decorator Design Pattern
+# Abstract Factory Design Pattern
 
 ### Gist
 - It solves the problem of creating entire 

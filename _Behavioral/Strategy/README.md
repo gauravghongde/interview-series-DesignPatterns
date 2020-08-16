@@ -1,4 +1,4 @@
-#Strategy Design Pattern
+# Strategy Design Pattern
 
 ### Gist
 - Interchangeable Encapsulated Set of Algorithms

@@ -1,4 +1,4 @@
-#Decorator Design Pattern
+# Decorator Design Pattern
 
 ### Gist
 - It allows behavior to be added to an individual object, 
