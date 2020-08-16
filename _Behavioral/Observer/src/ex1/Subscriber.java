@@ -2,7 +2,7 @@ package ex1;
 
 public class Subscriber implements IObserver {
 
-    private String name;
+    private final String name;
     private Channel channel = new Channel();
 
     public Subscriber(String name) {
