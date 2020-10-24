@@ -1,4 +1,4 @@
-# <> Design Pattern
+# Command Design Pattern
 
 ### Gist
 - Encapsulation of Command or Request
